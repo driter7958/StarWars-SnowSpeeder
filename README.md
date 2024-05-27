@@ -1,6 +1,6 @@
 # Star Wars Snow Speeder Model Build
 
-![Snow Speeder](snow_speeder_image.jpg)
+![Snow Speeder](Snowspeeder.webp)
 
 Welcome to the Star Wars Snow Speeder model build repository! This project aims to provide step-by-step instructions and resources for building your own Snow Speeder model, inspired by the iconic vehicle from the Star Wars universe.
 
